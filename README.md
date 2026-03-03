@@ -1,9 +1,12 @@
-# My Gengar Project 🐧
+# mera pahla git project
 
-ye meri pehli website hai o maine **Git** seekhte huye banayi hai.
+hello ! yah meri pahli website hai jise mene **Git and GitHub** sikhkar banaya hai.
 
-## Features
+ise banane me mujhe bahut maja aaya
 
-- [x] HTML file banayi
-- [x] Git seeka
+## maine kya kya sikha hai:
+- [x] git install karna.
+- [x] `add`, `commit` aur `push` commands.
+- [ ] javascript sikhna (baki hai).
 
+[ mere live website yaha dekhe](https://github.com/Digitsou?tab=repositories)
